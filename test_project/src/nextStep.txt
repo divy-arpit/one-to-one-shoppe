@@ -1,0 +1,19 @@
+This file contains the ideas which are to be implemented and all the features that have been implemented
+
+Features done-
+1) The shopkeeper can-
+    a)View list of items on sale
+    b)Add items to the selling item list
+    c)Remove items from sale
+    d)View the list of ordered items
+2) The customer can-
+    a)View the list of items ordered
+    b)Order an item
+    c)View the list of items on sale
+    d)While placing the order, we check if we have that item and whether the quantity is sufficient.
+
+Features to be added-
+    a)The shopkeeper should be able to mark delivered orders in the list.
+    b)The shopkeeper should be able to reduce the quantity of the items. Right now, he can just add or remove items.
+
+
